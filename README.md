@@ -1,10 +1,10 @@
 # DS4002-Project3-TeamNBC
-# Title: MI2-Project3
-# Group Name: Team NBC
-# Members: Mianchen (Bruce) Cao, Nathan Patton, Camden Miller
-# Leader: Nathan Patton
-# Course: DS 4002
-# Date: April 25th, 2023
+Title: MI2-Project3
+Group Name: Team NBC
+Members: Mianchen (Bruce) Cao, Nathan Patton, Camden Miller
+Leader: Nathan Patton
+Course: DS 4002
+Date: April 25th, 2023
 
 # Research Question
 Can we use a machine learning model to predict the market price of Apple stock in the near future? 
